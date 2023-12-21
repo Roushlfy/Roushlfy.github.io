@@ -31,15 +31,11 @@
     - title: A Machine Learning Enhanced Decomposition Approach to Solving Maximum Clique on Quantum Annealers
       institution: University of Toronto, Toronto, Canada
       year: 2023.10 - now
-      # position: Research Assistant
-      # advisor: Prof. <a href="https://cglee.mie.utoronto.ca/">Chi-Guhn Lee</a>
       description: We proposed an exact decomposition method to separate graphs for the maximum clique problem via vertex separators. In order to improve the performance of the decomposition approach, we developed a supervised learning method and a Monte-Carlo Tree Search method to improve the choice of the vertex. We further proposed a reinforcement learning method to identify vertex separators. Results showed that our method could significantly improve the performance of the heuristic method for decomposition.
     
     - title: Research on Large-Scale Mixed Integer Programs Based on Machine Learning Methods
       institution: Tsinghua University, Beijing, China
       year: 2023.4 - now
-      # position: Research Leader
-      # advisor: Prof. <a href="https://thuiar.github.io/author/hua-xu/">Hua Xu</a>
       description: I proposed a hypergraph-based method to completely encode quadratically constrained quadratic programs as a hypergraph and improved existing hypergraph neural networks to predict optimal solutions. I proposed a neighborhood crossover algorithm based on McCormick Relaxation, which enabled small-scale solvers to solve large-scale problems and strengthened traditional large neighborhood search methods by paralleling.I led the project with two other undergraduates, developed all the code and written most part of our paper (which is currently under review for ICLR 2024). Results showed that our method outperforms Gurobi and SCIP significantly on large problems. For the next step, I am considering
       items:
         - strengthen the theoretical analysis of the hypergraph-based method,
@@ -49,8 +45,6 @@
     - title: Curriculum Learning Algorithm Development and Open-Source Framework Construction
       institution: Tsinghua University, Beijing, China
       year: 2022.10 - 2023.10
-      # position: Research Assistant
-      # advisor: Prof. <a href="https://mn.cs.tsinghua.edu.cn/xinwang/">Xin Wang</a>
       description: I Contributed to the curriculum learning benchmark repo and developed the code based on the RL-teacher <a href="https://arxiv.org/abs/2210.17368">paper</a>. I conducted experiments for the RL-teacher algorithm by systematically testing all combinations of parameters. I co-authored a paper which is currently under review for CVPR 2024.
 
 
